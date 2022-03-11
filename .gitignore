@@ -1,3 +1,5 @@
 configs.py
 __pycache__
 data
+.checkpoint
+spark-warehouse
