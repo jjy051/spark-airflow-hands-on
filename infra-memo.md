@@ -1,5 +1,6 @@
 # spark
 - anaconda install (through website)
+  - to activate virtual env
 - brew install --cask adoptopenjdk8
 - brew install scala
 - brew install apache-spark
